@@ -1,0 +1,11 @@
+
+#**Ensamble de novo**
+###Olivia Rojo, Jetsi Viridiana Mancilla Rojano
+_________________________________________________________________________________________________________________________________
+
+#Ensamblaje de *novo* genomas
+Actualmente se han desarrollado diferentes métodos que nos brindan la ventaja de obtener el genoma completo de un organismo, lo anterior, nos permite poder contar con el inventario completo de genes de dicho organismo, mismos que se pueden llegar a expresar en cualquier momento de su ciclo.
+En bioinformática, el ensamblaje de secuencias es un proceso computacional que se basa en el alineamiento y unión de fragmentos cortos de DNA, los cuales provienen de un proceso de secuenciación, dando lugar a secuencias contiguas de mayor tamaño; permitiendo la reconstrucción exacta de la secuencia.
+El ensamble de secuencias se puede llevar a cabo utilizando un genoma como referencia, llamado ensamble por comparación; o bien, utilizando sólo la información obtenido de la secuenciación, para llevar a cabo la reconstrucción del genoma en cuestión, conocido como ensamble de novo. Generalmente la secuenciación de novo, permite secuenciar organismos nuevos, de los cuales no hay secuencias modelo o de referencia.
+
+
